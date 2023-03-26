@@ -1,0 +1,2 @@
+# fininform
+Financial Informatics
